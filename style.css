@@ -1,0 +1,35 @@
+body {
+  background-color: lightblue;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.box {
+  background-color: white;
+  width: 300px;
+  margin: 100px auto;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px gray;
+}
+
+h1 {
+  color: blue;
+}
+
+p {
+  color: #555;
+}
+
+button {
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkblue;
+}
